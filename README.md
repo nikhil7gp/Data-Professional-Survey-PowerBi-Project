@@ -15,10 +15,11 @@ The dashboard reveals insights about salaries, popular tools, experience levels,
 
 ## 🖼️ Dashboard Preview  
 
-![Dashboard Preview](https://github.com/nikhil7gp/Data-Professional-Survey-PowerBi-Project/blob/main/preview.png)
+<p align="center">
+  <img src="preview.png" alt="Power BI Dashboard Preview" width="100%" style="border-radius: 10px;"/>
+</p>
 
-> *Tip:* Replace the image URL above with a screenshot of your actual Power BI dashboard.  
-> Example: Take a screenshot → save it as `preview.png` → upload it to your repository root.
+> *This dashboard visualizes key insights such as salary trends, experience levels, and tool preferences among data professionals.*
 
 ---
 
