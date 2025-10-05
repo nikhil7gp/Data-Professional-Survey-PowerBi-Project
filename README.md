@@ -13,13 +13,15 @@ The dashboard reveals insights about salaries, popular tools, experience levels,
 
 ---
 
-## 🖼️ Dashboard Preview  
+## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="./preview.png" alt="Dashboard Preview" width="90%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
+  <img src="./preview.png" alt="Dashboard Preview" width="90%" style="border-radius:12px; box-shadow:0 0 8px rgba(0,0,0,0.25);" />
 </p>
 
-> 💡 *This dashboard visualizes key insights such as salary trends, experience levels, and tool preferences among data professionals.*
+<div align="center" style="max-width: 90%; margin: auto; background-color: rgba(255, 255, 255, 0.1); padding: 8px 12px; border-radius: 6px;">
+  🧠 *This dashboard visualizes key insights such as salary trends, experience levels, and tool preferences among data professionals.*
+</div>
 
 ---
 
