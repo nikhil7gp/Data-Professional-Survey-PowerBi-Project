@@ -16,10 +16,10 @@ The dashboard reveals insights about salaries, popular tools, experience levels,
 ## 🖼️ Dashboard Preview  
 
 <p align="center">
-  <img src="preview.png" alt="Power BI Dashboard Preview" width="100%" style="border-radius: 10px;"/>
+  <img src="./preview.png" alt="Dashboard Preview" width="90%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
 </p>
 
-> *This dashboard visualizes key insights such as salary trends, experience levels, and tool preferences among data professionals.*
+> 💡 *This dashboard visualizes key insights such as salary trends, experience levels, and tool preferences among data professionals.*
 
 ---
 
