@@ -5,11 +5,41 @@
 [![Status](https://img.shields.io/badge/Status-Completed-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
 
-### 🎯 Overview  
-An interactive Power BI project analyzing data professionals’ survey responses to uncover insights about:
-- Salary trends  
-- Tools and technologies used  
-- Work experience and education  
-- Job satisfaction and challenges  
+---
 
-The dashboard transforms raw survey data into meaningful visual insights to better understand the current state of the data industry.
+### 🎯 Overview  
+An interactive Power BI project analyzing survey data from data professionals across different roles.  
+The dashboard reveals insights about salaries, popular tools, experience levels, education backgrounds, and job satisfaction within the data industry.
+
+---
+
+## 🖼️ Dashboard Preview  
+
+![Dashboard Preview](https://github.com/nikhil7gp/Data-Professional-Survey-PowerBi-Project/blob/main/preview.png)
+
+> *Tip:* Replace the image URL above with a screenshot of your actual Power BI dashboard.  
+> Example: Take a screenshot → save it as `preview.png` → upload it to your repository root.
+
+---
+
+## 🔍 Key Insights  
+
+- Average salary trends by job role, experience, and region  
+- Most commonly used tools and programming languages  
+- Correlation between education level and compensation  
+- Job satisfaction and challenges faced by professionals  
+- Distribution of respondents by country and position  
+
+---
+
+## ⚙️ Tools & Technologies  
+
+- **Power BI Desktop** – for data modeling, DAX, and visualization  
+- **Microsoft Excel** – as the data source  
+- **Power Query** – for data cleaning and transformation  
+
+---
+
+## 🚀 Objective  
+
+To transform raw survey data into actionable insights that help understand the career landscape of data professionals, supporting learners and hiring managers in data-driven decisions.
